@@ -25,7 +25,6 @@ This app does exactly that no tracking, and no data leaving your device.
 ### 🔓 Open Source
 
 The code is 100% open source and licensed under the MIT License.
-You can view, modify, or self-host the project freely.
 
 [🚀 Live Demo on Vercel](https://vercel.com/houcemfatnassi-9291s-projects/todo)
 
