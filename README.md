@@ -31,6 +31,5 @@ You can view, modify, or self-host the project freely.
 [🔗 GitHub Repository](https://github.com/your-repo-link-here)
 [🚀 Live Demo on Vercel](https://vercel.com/houcemfatnassi-9291s-projects/v0-upstash-community-starter)
 
----
 
-> No database. No backend. Just local tasks.
+No database. No backend. Just local tasks.
