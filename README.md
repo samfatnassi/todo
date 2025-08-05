@@ -28,7 +28,6 @@ This app does exactly that no tracking, and no data leaving your device.
 The code is 100% open source and licensed under the MIT License.
 You can view, modify, or self-host the project freely.
 
-[🔗 GitHub Repository](https://github.com/your-repo-link-here)
-[🚀 Live Demo on Vercel](https://vercel.com/houcemfatnassi-9291s-projects/v0-upstash-community-starter)
+[🚀 Live Demo on Vercel]((https://vercel.com/houcemfatnassi-9291s-projects/todo))
 
 
