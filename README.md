@@ -3,7 +3,6 @@
 **Todo Local App** is a minimal task management tool designed for simplicity and privacy.
 It allows you to quickly add, view, and remove tasks all stored locally in your browser using cookies or local storage.
 
-No accounts. No cloud. Just your tasks, in your browser.
 
 ### 🔍 Why?
 
