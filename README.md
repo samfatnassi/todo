@@ -1,30 +1,36 @@
-# Upstash Community Starter
+## 📝 Todo Local App
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Todo Local App** is a minimal task management tool designed for simplicity and privacy.
+It allows you to quickly add, view, and remove tasks all stored locally in your browser using cookies or local storage.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/houcemfatnassi-9291s-projects/v0-upstash-community-starter)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/71BLuCIIkqp)
+No accounts. No cloud. Just your tasks, in your browser.
 
-## Overview
+### 🔍 Why?
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Because sometimes you just want to:
 
-## Deployment
+* Organize your daily tasks without syncing them to external servers.
+* Keep things private by design.
+* Delete tasks instantly, without a trace.
 
-Your project is live at:
+This app does exactly that no tracking, and no data leaving your device.
 
-**[https://vercel.com/houcemfatnassi-9291s-projects/v0-upstash-community-starter](https://vercel.com/houcemfatnassi-9291s-projects/v0-upstash-community-starter)**
 
-## Build your app
+### 💡 How It Works
 
-Continue building your app on:
+* All tasks are stored locally in your browser (via cookies or local storage).
+* When you mark a task as done, it’s removed instantly.
+* Everything runs entirely on the frontend using Next.js.
 
-**[https://v0.dev/chat/projects/71BLuCIIkqp](https://v0.dev/chat/projects/71BLuCIIkqp)**
 
-## How It Works
+### 🔓 Open Source
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+The code is 100% open source and licensed under the MIT License.
+You can view, modify, or self-host the project freely.
+
+[🔗 GitHub Repository](https://github.com/your-repo-link-here)
+[🚀 Live Demo on Vercel](https://vercel.com/houcemfatnassi-9291s-projects/v0-upstash-community-starter)
+
+---
+
+> No database. No backend. Just local tasks.
